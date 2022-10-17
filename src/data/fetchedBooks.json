@@ -1,0 +1,738 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 11,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "kmLHDwAAQBAJ",
+      "etag": "goeQ7Ykb19w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kmLHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Master CCNA",
+        "subtitle": "Belajar Network itu Mudah",
+        "authors": ["Nirwan Adhiatma"],
+        "publisher": "nirifa publisher",
+        "publishedDate": "2020-01-06",
+        "description": "Buku ini membahas secara tuntas & terperinci mengenai CCNA, disertai dengan 404 soal & pembahasan. Selain itu juga ada contoh lab yang bisa langsung di praktikkan untuk memperkuat pemahaman mengenai network.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 801,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kmLHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kmLHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=kmLHDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kmLHDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kmLHDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 43745,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 36308,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kmLHDwAAQBAJ&rdid=book-kmLHDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 43745000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 36308000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Master_CCNA-sample-pdf.acsm?id=kmLHDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kmLHDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uXhlDwAAQBAJ",
+      "etag": "YaE3L1iFVUg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uXhlDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sql Injection Best Method For Begineers",
+        "authors": ["KISHOR SARKAR"],
+        "publisher": "smashwords.inc",
+        "publishedDate": "2018-07-06",
+        "description": "In today's world, SQL Injection is a serious security threat over the Internet for the various dynamic web applications residing over the internet. These Web applications conduct many vital processes in various web-based businesses. As the use of ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780463158821"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0463158822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uXhlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uXhlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=uXhlDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uXhlDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uXhlDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32693,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 32693,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uXhlDwAAQBAJ&rdid=book-uXhlDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32693000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 32693000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Sql_Injection_Best_Method_For_Begineers-sample-pdf.acsm?id=uXhlDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uXhlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jq4LEAAAQBAJ",
+      "etag": "HJJya7SOFMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jq4LEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Menguasai React JS Untuk Pemula",
+        "subtitle": "Panduan belajar JavaScript dari dasar hingga membuat aplikasi web modern",
+        "authors": ["Rohi Abdulloh"],
+        "publisher": "Rohi Abdulloh",
+        "publishedDate": "2020-11-25",
+        "description": "Buku ini ditujukan bagi siapa saja yang ingin menguasai React. Pembahasan dimulai teori dasar JavaScript, sehingga buku ini dapat diikuti oleh orang yang baru mengenal JavaScript sekalipun. Buku ini dibuat dengan skrip berwarna, harapannya akan ...",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 407,
+        "printType": "BOOK",
+        "categories": ["Young Adult Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jq4LEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jq4LEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=jq4LEAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jq4LEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jq4LEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 100000,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 75000,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jq4LEAAAQBAJ&rdid=book-jq4LEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 100000000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 75000000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Menguasai_React_JS_Untuk_Pemula-sample-pdf.acsm?id=jq4LEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jq4LEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xVeX7mLE8EAC",
+      "etag": "ruykzH9mgDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xVeX7mLE8EAC",
+      "volumeInfo": {
+        "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
+        "authors": ["Wahana Komputer"],
+        "publisher": "Penerbit Andi",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9792913300"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789792913309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 23,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tutorial_5_Hari_Belajar_Hacking_dari_Nol.html?hl=&id=xVeX7mLE8EAC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Tutorial_5_Hari_Belajar_Hacking_dari_Nol-sample-pdf.acsm?id=xVeX7mLE8EAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xVeX7mLE8EAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cD25DwAAQBAJ",
+      "etag": "XRNeMiC/uTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cD25DwAAQBAJ",
+      "volumeInfo": {
+        "title": "React JS From Zero",
+        "authors": ["Onesinus Saut Parulian"],
+        "publisher": "Onesinus Saut Parulian",
+        "publishedDate": "2019-10-27",
+        "description": "Ebook kali ini akan mencoba menjelaskan tentang React JS yang BENAR BENAR DARI AWAL, hingga diharapkan jika dapat mengikuti dapat sampai ke studi kasus studi kasus (next versi)",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cD25DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cD25DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=cD25DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cD25DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cD25DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cD25DwAAQBAJ&rdid=book-cD25DwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/React_JS_From_Zero-sample-pdf.acsm?id=cD25DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cD25DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TldnDwAAQBAJ",
+      "etag": "rStLfE5DRt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TldnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "BINTANG",
+        "authors": ["Tere Liye"],
+        "publisher": "Tere Liye",
+        "publishedDate": "2018-08-01",
+        "description": "Buku ke-4 Petualangan Raib, Ali dan Seli. **Novel ini adalah naskah awal (asli) dari penulis; tanpa sentuhan editing, layout serta cover dari penerbit, dengan demikian, naskah ini berbeda dengan versi cetak, pun memiliki kelebihan dan kelemahan ...",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": ["Comics & Graphic Novels"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TldnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TldnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=TldnDwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=TldnDwAAQBAJ&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/BINTANG.html?hl=&id=TldnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TldnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x9Q5DwAAQBAJ",
+      "etag": "jnuuhsV5C+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x9Q5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Vampire's Throne",
+        "subtitle": "A Paranormal Romance",
+        "authors": ["AJ Tipton"],
+        "publisher": "Savvy Storytelling, LLC",
+        "publishedDate": "2016-12-10",
+        "description": "A vampire prince fighting to liberate his people. A stunning photographer intrigued by the supernatural world. Together they must save their vampire kingdom…or die trying. Sexy vampire Christopher Dal has spent centuries recruiting free-thinkers ...",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x9Q5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x9Q5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=x9Q5DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x9Q5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x9Q5DwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "6"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x9Q5DwAAQBAJ&rdid=book-x9Q5DwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x9Q5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pdOfDwAAQBAJ",
+      "etag": "Qhj25rm93AI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pdOfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pengenalan Node.js",
+        "subtitle": "Melalui Aplikasi Web",
+        "authors": ["Equan Pr."],
+        "publisher": "SAJENID",
+        "description": "Buku ini terutama di peruntukkan untuk pemula yang ingin mulai mengenal platform Node.js. Pendekatan yang dipakai di buku ini yaitu mengenal Node.js melalui pembangunan aplikasi web sederhana dan untuk mempelajari isi dari buku ini setidaknya ...",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pdOfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pdOfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=pdOfDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pdOfDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pdOfDwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "4"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pdOfDwAAQBAJ&rdid=book-pdOfDwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Pengenalan_Node_js-sample-epub.acsm?id=pdOfDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Pengenalan_Node_js-sample-pdf.acsm?id=pdOfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pdOfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aWKUDwAAQBAJ",
+      "etag": "qX2k5j+H1dY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aWKUDwAAQBAJ",
+      "volumeInfo": {
+        "title": "HIJRAH CINTA",
+        "authors": ["Aisyah Bookworm"],
+        "publisher": "BAO Publishing",
+        "publishedDate": "2019-04-24",
+        "description": "Mencintai dan dicintai oleh seseorang itu tidaklah salah, tapi akan menjadi salah apabila cinta itu dibagi lewat cara yang salah. Jadi buat kamu yang sedang jatuh cinta, semoga tidak terjatuh dalam cinta yang salah. Dan buat kamu yang ingin jatuh ...",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": ["Reference"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aWKUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aWKUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=aWKUDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aWKUDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aWKUDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5550,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 5550,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aWKUDwAAQBAJ&rdid=book-aWKUDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5550000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 5550000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/HIJRAH_CINTA-sample-pdf.acsm?id=aWKUDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aWKUDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VNo4DwAAQBAJ",
+      "etag": "+2rH0p/ciVM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VNo4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "From Hijrah Till Jannah",
+        "subtitle": "Istiqamah Hingga ke Surga-Nya",
+        "authors": ["Yovie Kyu", "Q-Writing Consulting"],
+        "publisher": "Rasibook",
+        "publishedDate": "2017-09-28",
+        "description": "Allah gak menjamin orang yang udah berhijrah bakalan bebas ujian. Justru bisa jadi ujian yang dirasakan bakalan terasa dahsyat banget. Apalagi saat standar dunia jadi ukuran. Temukan beberapa kekuatan yang bisa meneguhkan hati kita menjalani ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786026644138"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "602664413X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": ["Religion"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VNo4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VNo4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.id/books?id=VNo4DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VNo4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VNo4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VNo4DwAAQBAJ&rdid=book-VNo4DwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/From_Hijrah_Till_Jannah-sample-pdf.acsm?id=VNo4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VNo4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
