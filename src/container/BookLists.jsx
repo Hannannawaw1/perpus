@@ -10,7 +10,7 @@ const BookLists = () => {
   useEffect(() => {
     const fetchBooks = async () => {
       const fetchedBooks = await axios.get(
-        "https://www.googleapis.com/books/v1/users/117747846995901374173/bookshelves/1001/volumes?key=AIzaSyDPFQM7bM54uQMvVGaodHubHgid0VrNJc0"
+        "https://www.googleapis.com/books/v1/users/117747846995901374173/bookshelves/1001/volumes"
       );
       setBooks(fetchedBooks.data.items);
     };
@@ -24,7 +24,7 @@ const BookLists = () => {
         flexDirection: "row",
         flexWrap: "wrap",
         justifyContent: "center",
-        mt: "4em",
+        marginTop: 5,
       }}
     >
       {books.map((book) => (

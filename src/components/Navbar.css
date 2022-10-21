@@ -1,0 +1,13 @@
+.navbar {
+  display: block;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  /* background-color: #1976d2;
+  color: #fff; */
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
