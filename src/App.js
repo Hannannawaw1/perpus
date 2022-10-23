@@ -1,6 +1,5 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
-// import BookLists from "./container/BookLists";
 
 function App() {
   return (
