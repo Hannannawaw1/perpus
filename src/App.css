@@ -1,6 +1,8 @@
 .App {
   text-align: center;
   font-family: 'Roboto';
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
 .App-logo {
